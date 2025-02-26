@@ -1,0 +1,19 @@
+public/
+  └── images/
+      ├── logos/
+      │   ├── gladiator-2.png
+      │   ├── house-of-dragon.webp
+      │   ├── marvel.png
+      │   ├── netflix.png
+      │   ├── disney.png
+      │   ├── hbo.png
+      │   └── limelight.svg
+      ├── hero/
+      │   ├── hero-1.jpg
+      │   └── hero-2.jpg
+      └── posters/
+          ├── poster-1.jpg
+          ├── poster-2.jpg
+          ├── poster-3.jpg
+          └── poster-4.jpg
+
